@@ -1,0 +1,11 @@
+tensorflow
+keras
+pytest-shutil
+tensorflow_addons
+numpy
+matplotlib
+opencv-python
+Ipython
+fastapi
+uvicorn
+python-multipart
